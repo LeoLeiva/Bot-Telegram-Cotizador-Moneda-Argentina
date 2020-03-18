@@ -1,2 +1,0 @@
-request
-python-telegram-bot
